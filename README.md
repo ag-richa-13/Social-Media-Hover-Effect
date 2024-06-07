@@ -30,9 +30,6 @@ To build this project, I used the following tools and technologies:
 - **Color Hunt**: A handy online tool for beautiful color palettes.
 
   - _Website_: [Color Hunt](https://colorhunt.co/palettes)
- 
-- **Icons**: Bootstrap Icons.
-  - _Website_: [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 - **Icons**: Bootstrap Icons.
   - _Website_: [Bootstrap Icons](https://icons.getbootstrap.com/)
