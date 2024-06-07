@@ -19,6 +19,7 @@ To build this project, I used the following tools and technologies:
 3. **CSS Peek**
 4. **IntelliCode**
 5. **VS Code Theme Extension** : **Sweet Dracula Theme**
+6. **Tabnine**: Autocomplete AI tool
 
 ### Design and Styling
 
@@ -27,7 +28,11 @@ To build this project, I used the following tools and technologies:
   - _Website_: [CSS Scan - Box Shadow](https://getcssscan.com/css-box-shadow-examples)
 
 - **Color Hunt**: A handy online tool for beautiful color palettes.
+
   - _Website_: [Color Hunt](https://colorhunt.co/palettes)
+
+- **Icons**: Bootstrap Icons.
+  - _Website_: [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ### Happy Coding! 🚀
 
